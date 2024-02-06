@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omar Ibrahim Atta
 - 👀 I’m interested in programming games, websites and mobile app development
 - 🌱 I’m currently learning mobile app development using dart
-- 💞️ I’m looking to collaborate on website development 
+-    I’m looking to collaborate on website development 
 - 📫 How to reach me: using the email hemaatta10@gmail.com
